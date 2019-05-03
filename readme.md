@@ -2,9 +2,10 @@
 This is my portfolio
 
 ## This is my Work
-ChatIonic /n
+ChatIonic
+  
 PythonDocx
 
 ### These are things I don't work with
-Surgery
+Surgery <br>
 Space Trip
