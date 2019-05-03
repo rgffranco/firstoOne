@@ -2,9 +2,9 @@
 This is my portfolio
 
 ## This is my Work
-ChatIonic
-  
-PythonDocx
+ChatIonic /p
+PythonDocx /l
+Dentist
 
 ### These are things I don't work with
 Surgery <br>
