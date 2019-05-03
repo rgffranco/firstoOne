@@ -1,7 +1,7 @@
-# My Portfolio
-This is my portfolio
+# Meu Portifólio
+Esse é o meu portifólio, espero que cresça indefinidamente
 
-### This is my Work
+### Esse é meu trabalho
 Python <br>
 HTML, CSS, JavaScript <br>
 Angular <br>
@@ -9,11 +9,11 @@ Ionic <br>
 Electron <br>
 Dart <br>
 Flutter <br>
-To come: AngularDart
+To come: AngularDart <br>
 
-### These are things I don't work with
+### Esse é o trabalho que não faço
 Surgery <br>
-Space Trip
+Space Trip <br>
 
-### Let´s do another test
+### Agora em inglês, como Black Alien
 C'mon, work please <br>
